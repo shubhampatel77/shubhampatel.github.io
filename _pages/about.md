@@ -11,7 +11,7 @@ redirect_from:
 
 🧐 My research interests are in optimizing Retrieval-Augmented Generation (RAG) models, developing diffusion models for personalized image generation!
 
-📊 I’m currently working towards my Master’s Thesis in the field optimizing LLMs, specifically RAG models.
+📊 I’m currently working towards my Master’s Thesis in the field optimizing Large Language Models, specifically RAG models.
 
 📽️ I am also interested in leveraging meta-learning for RL tasks like autonomous driving.
 
