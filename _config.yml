@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Shubham's Homepage"
 title_separator          : "-"
 name                     : &name "Shubham Patel"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : 
+  linkedin         : "shubham-patel-80203a219"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
