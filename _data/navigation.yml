@@ -16,7 +16,7 @@ main:
     url: /files/resume_main.pdf
 
   - title: "Blog Posts"
-    url: /year-archives/
+    url: /year-archive/
     
   # - title: "Guide"
   #   url: /markdown/
