@@ -19,9 +19,12 @@ redirect_from:
 Experience
 ======
 Add research + internship
+
 UT Dallas
 ------
+
 IIT Madras
 ------
+
 Feynn Labs
 ------
