@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I’m a final year graduate student at UT Dallas.
+👨🏻‍💻 I’m a final year graduate student at UT Dallas, before that I completed my B.Tech. at the Indian Institute of Technology Madras (IITM). 
 
 🧐 My research interests are in optimizing Retrieval-Augmented Generation (RAG) models, developing diffusion models for personalized image generation!
 
