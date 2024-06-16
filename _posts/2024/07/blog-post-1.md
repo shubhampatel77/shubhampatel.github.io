@@ -8,8 +8,6 @@ tags:
   - category2
 ---
 
-## Headings are cool
-
 ### Introduction
 
 Hey there! Ever wished you could magically add your favorite person (or pet!) into a scenic photo without it looking like a bad Photoshop job? 🌟 Well, you're in luck! In this post, I'll walk you through an exciting project I worked on where we used cutting-edge diffusion models to personalize image editing. Get ready to dive into the fascinating world of AI-driven image manipulation!
@@ -30,8 +28,6 @@ Here's where things get really cool. Personalized image generation means tailori
 
 Now, let’s talk about single image editing. Ever wanted to tweak just one photo without messing up everything else? Methods like SINE (Single Image Editing) make this possible. They allow targeted modifications without needing a huge dataset, making real-world applications super practical. Whether it's adding a playful cat to a serene landscape or swapping out that old can of soda for a chic coffee cup, single image editing has got you covered. 🐱☕️
 
-## You can have many headings
-
 ### Method
 
 Alright, let's get down to the fun part—how does it all work?
@@ -47,8 +43,6 @@ First up, we fine-tune our model with a target image. Imagine you're training fo
 #### Stage II: Instance Image Fine-Tuning
 
 Next, we introduce our star—the instance image. This could be a person, a pet, or even your favorite gadget. We fine-tune the model again, but this time, it learns to integrate this instance into the previously learned scenes seamlessly. It's like teaching a dancer to perform perfectly in different backdrops—whether it's a bustling city or a tranquil forest.
-
-## Aren't headings cool?
 
 ### Experiments
 
