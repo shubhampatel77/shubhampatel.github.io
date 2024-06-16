@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shubham-2.jpg"
+  avatar           : "shubham.png"
   name             : "Shubham Patel"
   pronouns         : # example: "she/her"  
   bio              : "Optimizing RAG models, generative image editing"
